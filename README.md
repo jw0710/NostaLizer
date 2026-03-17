@@ -35,9 +35,9 @@ To make it short:
 
 | Platform | Compatible |
 |---|---|
-| PS3 Fat — 40nm RSX Swap | ✅ Yes |
-| PS3 Fat — 65nm RSX Swap | ✅ Yes |
-| PS3 Fat — 90nm RSX OG | ❌ Not recommended |
+| PS3 Fat - 40nm RSX Swap | ✅ Yes |
+| PS3 Fat - 65nm RSX Swap | ✅ Yes |
+| PS3 Fat - 90nm RSX OG | ❌ Not recommended |
 | PS3 Slim / Super Slim | ✅ Yes |
 
 > **Strongly recommended:** Combine with Undervolting for best stability results.
@@ -52,21 +52,21 @@ To make it short:
 - More components, more complexity
 
 ### NostaLizer Lightweight:
-- **5× 470µF Low-ESR SMD caps only** — no MLCCs
-- **No castellated holes** — standard pads
-- **1mm PCB** — fits under the RF shield without modification
-- **Extra via grid** — optional MLCC bridging points if needed later
-- 2-layer HASL with lead — cheap, reliable, solderable
+- **5× 470µF Low-ESR SMD caps only** - no MLCCs
+- **No castellated holes** - standard pads for max cost-efficencie 
+- **1mm PCB** - fits under the RF shield without modification
+- **Extra via grid** - optional MLCC bridging points if needed later
+- 2-layer HASL with lead - cheap, reliable, solderable
 
 ---
 
-## 📉 Honest Performance — Impedance Analysis
+## 📉 Honest Performance - Impedance Analysis
 
 <p align="center">
   <img src="graphics/impedance.PNG" alt="Impedance & ESR Plot" width="90%">
 </p>
 
-*Simulation: 5× Kemet T520V477M2R5ASE012 (470µF TaPoly, 2.5V) — no trace resistance/inductance*
+*Simulation: 5× Kemet T520V477M2R5ASE012 (470µF TaPoly, 2.5V) - no trace resistance/inductance*
 
 **What this chart means in practice:**
 
@@ -113,7 +113,7 @@ If you want cheap, clean, and practical for a swapped console -> **this is what 
 | Soldermask | White (recommended NASA look 🚀) |
 | Silkscreen | Black |
 
-**[Order via PCBWay — $5 off with this link](https://pcbway.com/g/3N9J3w)** *
+**[Order via PCBWay - $5 off with this link](https://pcbway.com/g/3N9J3w)** *
 * Affiliate Link
 ---
 
@@ -132,10 +132,10 @@ If you want cheap, clean, and practical for a swapped console -> **this is what 
 
 Two options to connect VCC/GND:
 
-**Option A — Top left (2× GND pads)**  
+**Option A - Top left (2× GND pads)**  
 Connect to VCC from the Edge Connector.
 
-**Option B — Near revision number**  
+**Option B - Near revision number**  
 One GND pad + one VCC pad located close to the board revision marking.
 
 ### Backup / Fallback via Extra Vias
@@ -152,13 +152,13 @@ On a properly prepared Frankenstein console this should not be necessary; but th
 
 - Not a drop-in fix for a stock 90nm PS3
 - Not the highest-performance solution on the market
-- Not beginner-friendly — assumes hardware knowledge and professional tools
+- Not beginner-friendly - assumes hardware knowledge and professional tools
 
 ---
 
 ## License
 
-**Custom License — Personal & Non-Commercial Use Only**
+**Custom License - Personal & Non-Commercial Use Only**
 
 - ✅ You may download and order this PCB for personal use
 - ✅ You may use it in your own PS3 repairs
@@ -175,4 +175,4 @@ NostaMods.de
 
 ---
 
-*NostaLizer Lightweight — built for the community, kept simple.*
+*NostaLizer Lightweight - built for the community, kept simple.*
