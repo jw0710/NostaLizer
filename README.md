@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="NostaLizer_Space.png" alt="NostaLizer Lightweight Banner" width="100%">
-</p>
+
 
 # NostaLizer Lightweight
 > **NEC/TOKIN Replacement PCB for PS3 Fat - Simple as Water; No MLCCs, No Bullshit.**
@@ -10,6 +8,12 @@
 [![Caps](https://img.shields.io/badge/Caps-5x%20470µF%20Low%20ESR-orange)](https://pcbway.com/g/3N9J3w)
 [![Target](https://img.shields.io/badge/Target-PS3%20Fat%2040%2F65nm%20RSX%20Swap-red)](#compatibility)
 [![License](https://img.shields.io/badge/License-Custom%20%E2%80%93%20No%20Derivatives-lightgrey)](#license)
+
+---
+
+<p align="center">
+  <img src="graphics/NostaLizer_Space.png" alt="NostaLizer Lightweight Banner" width="100%">
+</p>
 
 ---
 
